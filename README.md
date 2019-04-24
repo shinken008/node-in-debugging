@@ -1,6 +1,11 @@
-## node-in-debugging
-
-《Node.js 调试指南》是本人整理的从事 Node.js 开发这几年的一些调试经验和思路，希望授人以鱼也能授人以渔。
+<h1 align="center">
+<img src="./assets/book.jpg" alt="node-in-debugging" width="200" height="200" />
+<br>
+《Node.js 调试指南》
+</h1>
+<h4 align="center">
+<a href="http://product.dangdang.com/25278935.html">当当</a> | <a href="https://item.jd.com/12356929.html">京东</a> | <a href="https://s.taobao.com/search?q=Node.js%E8%B0%83%E8%AF%95%E6%8C%87%E5%8D%97">淘宝</a> | <a href="https://www.amazon.cn/dp/B07D57FDY4/">亚马逊</a> | <a href="http://product.china-pub.com/8004731">china-pub</a>
+</h4>
 
 ## 开发环境
 
@@ -25,7 +30,8 @@
   - [Node@8](https://github.com/nswbmw/node-in-debugging/blob/master/3.4%20Node%408.md)
   - [Rust Addons](https://github.com/nswbmw/node-in-debugging/blob/master/3.5%20Rust%20Addons.md)
   - [Event Loop](https://github.com/nswbmw/node-in-debugging/blob/master/3.6%20Event%20Loop.md)
-- 调试篇
+  - [uncaughtException + llnode](https://github.com/nswbmw/node-in-debugging/blob/master/3.7%20uncaughtException%20%2B%20llnode.md)
+- 工具篇
   - [Source Map](https://github.com/nswbmw/node-in-debugging/blob/master/4.1%20Source%20Map.md)
   - [Chrome DevTools](https://github.com/nswbmw/node-in-debugging/blob/master/4.2%20Chrome%20DevTools.md)
   - [Visual Studio Code](https://github.com/nswbmw/node-in-debugging/blob/master/4.3%20Visual%20Studio%20Code.md)
@@ -43,12 +49,6 @@
 - 监控篇
   - [Telegraf + InfluxDB + Grafana(上)](https://github.com/nswbmw/node-in-debugging/blob/master/7.1%20Telegraf%20%2B%20InfluxDB%20%2B%20Grafana(%E4%B8%8A).md)
   - [Telegraf + InfluxDB + Grafana(下)](https://github.com/nswbmw/node-in-debugging/blob/master/7.2%20Telegraf%20%2B%20InfluxDB%20%2B%20Grafana(%E4%B8%8B).md)
-- 工具篇
+- 应用篇
   - [node-clinic](https://github.com/nswbmw/node-in-debugging/blob/master/8.1%20node-clinic.md)
   - [alinode](https://github.com/nswbmw/node-in-debugging/blob/master/8.2%20alinode.md)
-
-## 捐赠
-
-支付宝 | 微信
-------|------
-![](./assets/alipay.png) | ![](./assets/wechat.jpeg)
